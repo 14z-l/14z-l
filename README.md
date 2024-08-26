@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Nico.
-- 👀 I’m interested in Machine Learning and Programming Financial Solutions.
-- 🌱 I’m currently learning Rust.
 - 😄 Pronouns: he/she/it.
 
 <!---
